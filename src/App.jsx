@@ -9,6 +9,9 @@ function App() {
     return (
         <>
             <h1>My React Project</h1>
+            <ul>
+                <li>test</li>
+            </ul>
         </>
     );
 }
